@@ -1,17 +1,6 @@
 {
-  "name": "apollo-graphql",
-  "version": "1.0.0",
-  "description": "Following along with this guide: FreeCodeCamp- GraphQL Course for Beginners: https://www.youtube.com/watch?v=5199E50O7SI",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
   "dependencies": {
-    "@apollo/server": "^4.10.0",
-    "graphql": "^16.8.1"
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.18.3"
   }
 }
